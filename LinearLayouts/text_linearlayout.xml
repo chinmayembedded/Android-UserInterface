@@ -1,0 +1,63 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+   	android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background= "#ffffff"
+    android:gravity="center_vertical"
+    >
+
+    <TextView
+        android:text="Guest List"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="40sp" 
+        android:gravity="center"
+        android:background= "#2196F3"
+        android:textColor="#ffffff"
+        
+        />
+
+    <TextView
+        android:text="Kunal"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:textSize="24sp" 
+        android:gravity="center"
+        android:background= "#E3F2FD"/>
+
+
+    <TextView
+        android:text="Chinmay"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:textSize="24sp" 
+        android:gravity="center"
+        android:background= "#BBDEFB"/>
+    
+    <TextView
+        android:text="Abhishek"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:textSize="24sp" 
+        android:gravity="center"
+        android:background= "#64B5F6"/>
+    
+    <TextView
+        android:text="Gitesh"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:textSize="24sp" 
+        android:gravity="center"
+        android:background= "#1E88E5"/>
+    
+    
+    <TextView
+        android:text="Dhananay"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:textSize="24sp" 
+        android:gravity="center"
+        android:background= "#0D47A1"/>
+    
+</LinearLayout>
